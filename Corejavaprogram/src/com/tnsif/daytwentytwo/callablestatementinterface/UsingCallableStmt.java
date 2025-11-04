@@ -1,4 +1,4 @@
-package com.tnsif.daytwentyone.callablestatementinterface;
+package com.tnsif.daytwentytwo.callablestatementinterface;
 import java.sql.CallableStatement;
 import java.sql.Connection;
 

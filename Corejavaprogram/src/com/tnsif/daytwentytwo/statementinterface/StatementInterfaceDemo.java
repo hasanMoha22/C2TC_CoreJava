@@ -1,4 +1,4 @@
-package com.tnsif.daytwentyone.statementinterface;
+package com.tnsif.daytwentytwo.statementinterface;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

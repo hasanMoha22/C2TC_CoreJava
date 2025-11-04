@@ -1,4 +1,4 @@
-package com.tnsif.daytwentyone.v1.usingpreparedstatement;
+package com.tnsif.daytwentytwo.v1.usingpreparedstatement;
 
 import java.sql.SQLException;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package com.tnsif.daytwentyone.v1.storedproceduresfunctions;
+package com.tnsif.daytwentytwo.v1.storedproceduresfunctions;
 
 import java.sql.SQLException;
 

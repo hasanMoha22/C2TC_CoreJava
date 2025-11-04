@@ -1,4 +1,4 @@
-package com.tnsif.daytwentyone.preparedstatementinterface;
+package com.tnsif.daytwentytwo.preparedstatementinterface;
 
 import java.sql.Connection;
 

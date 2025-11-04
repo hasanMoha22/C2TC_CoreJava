@@ -1,4 +1,4 @@
-package com.tnsif.daytwentyone.statementinterface;
+package com.tnsif.daytwentytwo.statementinterface;
 
 public class Executor {
 
@@ -17,4 +17,4 @@ public class Executor {
 
 	}
 
-}
+} 

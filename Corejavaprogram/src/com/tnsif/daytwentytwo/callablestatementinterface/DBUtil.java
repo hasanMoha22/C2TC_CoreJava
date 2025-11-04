@@ -1,4 +1,4 @@
-package com.tnsif.daytwentyone.callablestatementinterface;
+package com.tnsif.daytwentytwo.callablestatementinterface;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
